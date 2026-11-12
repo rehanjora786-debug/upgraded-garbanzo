@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffe2d7"/>
+      <stop offset="100%" stop-color="#f7b87a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" rx="36" fill="url(#bg)"/>
+  <g transform="translate(100 60)">
+    <path d="M130 270 C130 205, 210 150, 280 150 C350 150, 430 205, 430 270 L430 300 C430 335, 392 360, 280 360 C168 360, 130 335, 130 300 Z" fill="#f6d7a5" stroke="#af6b31" stroke-width="8"/>
+    <path d="M165 210 L280 100 L390 210" fill="#f7ebd6" stroke="#b76a2d" stroke-width="8"/>
+    <circle cx="156" cy="198" r="18" fill="#7f4020"/>
+    <circle cx="286" cy="150" r="18" fill="#7f4020"/>
+    <circle cx="404" cy="198" r="18" fill="#7f4020"/>
+    <path d="M188 280 C225 304, 250 308, 282 308 C315 308, 342 304, 375 280" fill="none" stroke="#d77b35" stroke-width="8" stroke-linecap="round"/>
+  </g>
+  <text x="400" y="435" text-anchor="middle" font-size="42" font-weight="700" fill="#71431a" font-family="Arial, sans-serif">Dessert</text>
+</svg>

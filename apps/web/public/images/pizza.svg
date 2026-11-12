@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f4d17d"/>
+      <stop offset="100%" stop-color="#ef9b4d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" rx="36" fill="url(#bg)"/>
+  <circle cx="400" cy="250" r="170" fill="#f7d27a" stroke="#d78b34" stroke-width="18"/>
+  <circle cx="400" cy="250" r="118" fill="#f6e8b8" stroke="#c0622a" stroke-width="12"/>
+  <g fill="#cf5d2a" stroke="#b5481a" stroke-width="6">
+    <path d="M322 174 L397 251 L325 328 L265 250 Z"/>
+    <path d="M399 180 L480 250 L399 328 L330 250 Z"/>
+    <path d="M386 251 L474 327 L322 328 Z"/>
+  </g>
+  <g fill="#75b854" stroke="#4a7d2a" stroke-width="5">
+    <circle cx="345" cy="214" r="17"/>
+    <circle cx="455" cy="220" r="17"/>
+    <circle cx="410" cy="290" r="17"/>
+    <circle cx="328" cy="300" r="17"/>
+    <circle cx="468" cy="294" r="17"/>
+  </g>
+  <g fill="#e53935" stroke="#b92b2a" stroke-width="5">
+    <circle cx="386" cy="244" r="12"/>
+    <circle cx="428" cy="246" r="12"/>
+    <circle cx="404" cy="205" r="12"/>
+    <circle cx="372" cy="282" r="12"/>
+    <circle cx="442" cy="284" r="12"/>
+  </g>
+  <text x="400" y="435" text-anchor="middle" font-size="42" font-weight="700" fill="#7a3d1d" font-family="Arial, sans-serif">Pizza</text>
+</svg>
